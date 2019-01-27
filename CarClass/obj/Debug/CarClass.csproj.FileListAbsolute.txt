@@ -1,0 +1,7 @@
+C:\Users\Ronad\source\repos\CarClass\CarClass\bin\Debug\CarClass.exe.config
+C:\Users\Ronad\source\repos\CarClass\CarClass\bin\Debug\CarClass.exe
+C:\Users\Ronad\source\repos\CarClass\CarClass\bin\Debug\CarClass.pdb
+C:\Users\Ronad\source\repos\CarClass\CarClass\obj\Debug\CarClass.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\CarClass\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\CarClass\CarClass\obj\Debug\CarClass.exe
+C:\Users\Ronad\source\repos\CarClass\CarClass\obj\Debug\CarClass.pdb
